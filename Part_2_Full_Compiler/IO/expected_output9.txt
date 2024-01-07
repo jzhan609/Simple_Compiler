@@ -1,0 +1,2 @@
+Variable b: 7.000000
+Variable a: 4.000000

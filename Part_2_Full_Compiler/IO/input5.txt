@@ -1,0 +1,11 @@
+{
+    int a ;
+    a = a + 2 ;
+    {
+        int b ;
+        b = a + 2;
+        print(b);
+    }
+    print(a);
+    
+}
